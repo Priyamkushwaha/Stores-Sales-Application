@@ -1,0 +1,73 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 2px;
+}
+/* order tab css  */
+header {
+    border: 1px solid rgb(112, 112, 112);
+    font-size: 1.5rem;
+}
+h1 {
+    margin-bottom: 1px;
+}
+h1 span {
+    border-bottom: 8px solid #ff6112;
+    padding-left: 2em;
+    padding-right: 1em;
+}
+/* giving styling to order tab containers */
+.containerWrapper1 {
+    border: 1px solid rgb(112, 112, 112);
+    display: flex;
+    height: 20vh;
+    padding-left: 10%;
+    padding-top: 5%;
+    padding-bottom: 3%;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-content: space-around;
+}
+.containerWrapper1 .container1,.containerWrapper1 .container2,.containerWrapper1 .container3 {
+    min-width: 35%;
+    margin-bottom: 3%;
+}
+.containerWrapper2 {
+    border: 1px solid rgb(112, 112, 112);
+    display: flex;
+    padding-left: 10%;
+    padding-top: 5%;
+    height: 80vh;
+    flex-wrap: wrap;
+}
+.containerWrapper2 .container1,.containerWrapper2 .container2 {
+    min-width: 35%;
+}
+/* report tab css  */
+#Reports, #theGroupPanel {
+    padding: 2%;
+}
+/* dashboard tab css */
+#DashBoard {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding-top: 2.5%;
+}
+#DashBoard div{
+    width: 500px;
+    min-width: 40%;
+}
+/* adding white color to piechart text  */
+.wj-flexchart .wj-data-labels .wj-data-label {
+    fill: white;
+}
+/* utility class */
+.displayText {
+    font-weight: 600;
+}
+.errorText {
+    color: red;
+}
+.error {
+    border:1px solid red;
+}

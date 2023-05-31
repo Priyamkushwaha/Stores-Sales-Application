@@ -1,0 +1,348 @@
+[
+    {
+        "id": 0,
+        "location" :"Central Delhi",
+        "items": [
+            {
+                "id": 0,
+                "item": "item1",
+                "price": 12.00
+            },
+            {
+                "id": 1,
+                "item": "item2",
+                "price": 15.00
+            },
+            {
+                "id": 2,
+                "item": "item3",
+                "price": 10.00
+            },
+            {
+                "id": 3,
+                "item": "item4",
+                "price": 9.00
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "location" : "East Delhi",
+        "items": [
+            {
+                "id": 0,
+                "item": "item1",
+                "price": 12.00
+            },
+            {
+                "id": 1,
+                "item": "item2",
+                "price": 15.00
+            },
+            {
+                "id": 2,
+                "item": "item3",
+                "price": 10.00
+            },
+            {
+                "id": 3,
+                "item": "item4",
+                "price": 9.00
+            },
+            {
+                "id": 4,
+                "item": "item5",
+                "price": 20.00
+            },
+            {
+                "id": 5,
+                "item": "item6",
+                "price": 11.00
+            },
+            {
+                "id": 6,
+                "item": "item7",
+                "price": 22.00
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "location" : "New Delhi",
+        "items": [
+            {
+                "id": 0,
+                "item": "item1",
+                "price": 12.00
+            },
+            {
+                "id": 1,
+                "item": "item2",
+                "price": 15.00
+            },
+            {
+                "id": 2,
+                "item": "item3",
+                "price": 10.00
+            },
+            {
+                "id": 3,
+                "item": "item4",
+                "price": 9.00
+            },
+            {
+                "id": 4,
+                "item": "item5",
+                "price": 20.00
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "location" : "North Delhi",
+        "items": [
+            {
+                "id": 0,
+                "item": "item1",
+                "price": 12.00
+            },
+            {
+                "id": 1,
+                "item": "item2",
+                "price": 15.00
+            },
+            {
+                "id": 2,
+                "item": "item3",
+                "price": 10.00
+            },
+            {
+                "id": 3,
+                "item": "item4",
+                "price": 9.00
+            },
+            {
+                "id": 4,
+                "item": "item5",
+                "price": 20.00
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "location" : "North East Delhi",
+        "items": [
+            {
+                "id": 0,
+                "item": "item1",
+                "price": 12.00
+            },
+            {
+                "id": 1,
+                "item": "item2",
+                "price": 15.00
+            },
+            {
+                "id": 2,
+                "item": "item3",
+                "price": 10.00
+            },
+            {
+                "id": 3,
+                "item": "item4",
+                "price": 9.00
+            },
+            {
+                "id": 4,
+                "item": "item5",
+                "price": 20.00
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "location" : "North West  Delhi",
+        "items": [
+            {
+                "id": 0,
+                "item": "item1",
+                "price": 12.00
+            },
+            {
+                "id": 1,
+                "item": "item2",
+                "price": 15.00
+            },
+            {
+                "id": 2,
+                "item": "item3",
+                "price": 10.00
+            },
+            {
+                "id": 3,
+                "item": "item4",
+                "price": 9.00
+            },
+            {
+                "id": 4,
+                "item": "item5",
+                "price": 20.00
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "location" : "Shahdara",
+        "items": [
+            {
+                "id": 0,
+                "item": "item1",
+                "price": 12.00
+            },
+            {
+                "id": 1,
+                "item": "item2",
+                "price": 15.00
+            },
+            {
+                "id": 2,
+                "item": "item3",
+                "price": 10.00
+            },
+            {
+                "id": 3,
+                "item": "item4",
+                "price": 9.00
+            },
+            {
+                "id": 4,
+                "item": "item5",
+                "price": 20.00
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "location" : "South Delhi",
+        "items": [
+            {
+                "id": 0,
+                "item": "item1",
+                "price": 12.00
+            },
+            {
+                "id": 1,
+                "item": "item2",
+                "price": 15.00
+            },
+            {
+                "id": 2,
+                "item": "item3",
+                "price": 10.00
+            },
+            {
+                "id": 3,
+                "item": "item4",
+                "price": 9.00
+            },
+            {
+                "id": 4,
+                "item": "item5",
+                "price": 20.00
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "location" : "South East Delhi",
+        "items": [
+            {
+                "id": 0,
+                "item": "item1",
+                "price": 12.00
+            },
+            {
+                "id": 1,
+                "item": "item2",
+                "price": 15.00
+            },
+            {
+                "id": 2,
+                "item": "item3",
+                "price": 10.00
+            },
+            {
+                "id": 3,
+                "item": "item4",
+                "price": 9.00
+            },
+            {
+                "id": 4,
+                "item": "item5",
+                "price": 20.00
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "location" : "South West Delhi",
+        "items": [
+            {
+                "id": 0,
+                "item": "item1",
+                "price": 12.00
+            },
+            {
+                "id": 1,
+                "item": "item2",
+                "price": 15.00
+            },
+            {
+                "id": 2,
+                "item": "item3",
+                "price": 10.00
+            },
+            {
+                "id": 3,
+                "item": "item4",
+                "price": 9.00
+            },
+            {
+                "id": 4,
+                "item": "item5",
+                "price": 20.00
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "location" : "West Delhi",
+        "items": [
+            {
+                "id": 0,
+                "item": "item1",
+                "price": 12.00
+            },
+            {
+                "id": 1,
+                "item": "item2",
+                "price": 15.00
+            },
+            {
+                "id": 2,
+                "item": "item3",
+                "price": 10.00
+            },
+            {
+                "id": 3,
+                "item": "item4",
+                "price": 9.00
+            },
+            {
+                "id": 4,
+                "item": "item5",
+                "price": 20.00
+            }
+        ]
+    }
+]
